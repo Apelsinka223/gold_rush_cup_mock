@@ -26,3 +26,6 @@ gold_rush_cup_mock-*.tar
 # we ignore priv/static. You may want to comment
 # this depending on your deployment strategy.
 /priv/static/
+
+.idea/
+*.iml
